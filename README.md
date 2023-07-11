@@ -26,3 +26,10 @@ Gli obiettivi di questo progetto sono:
 - Capire se il tipo di interazione cambia in relazione alle diverse nazioni 
 - Osservare se tali interazioni hanno subito dei cambiamenti dopo il crollo di Terra.
 - Analizzare se i tweet influenzano in qualche modo il valore TerraUSD e di Luna.
+
+
+## Risultati
+I risultati ottenuti mostrano che la tipologia di interazione più diffusa sono i like ai tweet, seguiti da una maggiore propensione al retweet rispetto alle risposte o ai retweet con commento. Quindi, si è riscontrato che gli utenti preferiscono le interazioni impersonali rispetto a fornire opinioni sui tweet. Inoltre, è emerso che la preferenza per il tipo di interazione principale non varia tra i paesi, ad eccezione della Bulgaria, e che il crollo di Terra non ha portato a significativi cambiamenti.
+
+Infine, per quanto riguarda la correlazione tra l’andamento delle criptovalute e i tweet pubblicati, non è stata riscontrata una stretta correlazione, ma è emerso che Twitter viene utilizzato come mezzo di divulgazione delle informazioni sulle criptomonete e sulla blockchain.
+
